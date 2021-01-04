@@ -1,0 +1,167 @@
+
+/* ......................................TAG SELECTORS............................................*/
+      body {
+         background-color: #fff5ea;
+      }
+      hr {
+         
+         border-color: #ffcac2;
+         border-style: dashed solid;
+         border-top-style: dashed;
+         height: 4%;
+         width: 10% ;
+      }
+
+      h1{
+          color:#f36a68;
+      }
+
+      h2{
+          color: #ed6663;
+      }
+
+      image{
+          background-color:  #fff5ea;
+      }
+
+
+      a:hover {
+          background-color: #ffcac2;
+          
+      }
+
+
+      /*......................................TAG SELECTORS.....................................*/
+
+      label{
+          color: #900c3f;
+          font-size: larger;
+      }
+
+      input{
+          color: #ff8585;
+          font-size: large;
+      }
+
+      /*...................................CLASS SELECTORS......................................*/
+
+      .education {
+         color:#a00423 ;
+         font-size: large;
+         font-style: unset;
+      }
+
+      
+
+      .hobbies{
+          color:#900c3f ;
+          font-size: larger;
+          font-style: unset;
+      }
+
+      
+      .about{
+        color: #900c3f;
+        font-size: larger;
+        font-style:unset  ;
+      }
+
+     .table1{
+         font-size: larger;
+         font-weight: bold;
+         color: #480032;
+
+      }
+
+      .secondcol{
+          color:#9b143a;
+          font-style:normal;
+          font-weight: normal;
+      }
+
+      .table2{
+          font-size: large;
+      }
+
+
+      .table2colleft{
+          color:#900c3f ;
+          font-size: larger;
+
+      }
+
+      .rating{
+          font-size: x-large;
+      }
+
+      .button{
+          
+          color: #f64662;
+      }
+
+    /*.......................................CONTACT DETAILS.......................................*/
+      
+      .info{
+          font-size: x-large;
+          color:#900c3f;
+      }
+
+      .endcontdel{
+        font-size: larger;
+        color: #900c3f;
+    }
+
+    /*.......................................ID SELECTORS.........................................*/
+
+    #school{
+        color: #f05454;
+        font-size: larger;
+    }
+
+    #schoollink{
+        color:  #f05454 ;
+        font-style: italic;
+    }
+
+    #photographylink{
+        color:#c61951;
+        font-style: italic;
+        font-size: larger;
+        font-weight: bold;
+    }
+
+    #contactdetlink{
+        color: #c61951;
+        font-style: italic;
+        font-size: larger;
+        font-weight: bold;
+    }
+
+    #table1headright{
+        font-weight: bold;
+    }
+
+    #table2head{
+        font-weight: bold;
+        font-size:x-large;
+        color: #ff8585;
+    }
+
+
+/*..........................................CONTACT DETAILS...........................................*/    
+
+    #comments{
+        font-size: large;
+        color: #ff8585;
+        font-style: unset;
+    }
+
+
+    #support{
+        font-weight: bold;
+        color: #f64662;
+        font-size: larger;
+
+    }
+
+    
